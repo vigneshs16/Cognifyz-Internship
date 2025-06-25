@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+    The dog was sleeping under the tree.
+    A fox is a clever animal, and the fox knows how to hunt.
+    The brown fox and the lazy dog are friends.
+    This is a simple test file with repeated words.
